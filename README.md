@@ -16,7 +16,7 @@ This project presents a stylish and interactive Tic-Tac-Toe game built using HTM
 </p>
 
 <p align="center">
-  <img width="704" alt="image" src="https://github.com/aditiravindranayak/PRODIGY_WD_03/assets/109815646/cb0e248e-4509-4307-b3a5-3d258b35908b">
+  <img width="679" alt="image" src="https://github.com/aditiravindranayak/PRODIGY_WD_03/assets/109815646/cb0e248e-4509-4307-b3a5-3d258b35908b">
 </p>
 
 ---

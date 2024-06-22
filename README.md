@@ -11,8 +11,13 @@ This project presents a stylish and interactive Tic-Tac-Toe game built using HTM
 - **Player Options**: Supports gameplay between two players locally, fostering engagement and competition.
 - **Technologies Used**: Utilizes HTML for structure, CSS for refined styling, and JavaScript for dynamic game interactions.
 - **Purpose**: Showcases fundamental web development skills while providing a fun and interactive experience for players.
+<p align="center">
+  <img width="679" alt="image" src="https://github.com/aditiravindranayak/PRODIGY_WD_03/assets/109815646/ea224a12-5093-41c1-87b7-9b9d767ecf11">
+</p>
 
-<img width="679" alt="image" src="https://github.com/aditiravindranayak/PRODIGY_WD_03/assets/109815646/ea224a12-5093-41c1-87b7-9b9d767ecf11">
+<p align="center">
+  <img width="704" alt="image" src="https://github.com/aditiravindranayak/PRODIGY_WD_03/assets/109815646/cb0e248e-4509-4307-b3a5-3d258b35908b">
+</p>
 
 ---
 

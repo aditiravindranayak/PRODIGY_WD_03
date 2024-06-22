@@ -12,6 +12,8 @@ This project presents a stylish and interactive Tic-Tac-Toe game built using HTM
 - **Technologies Used**: Utilizes HTML for structure, CSS for refined styling, and JavaScript for dynamic game interactions.
 - **Purpose**: Showcases fundamental web development skills while providing a fun and interactive experience for players.
 
+<img width="679" alt="image" src="https://github.com/aditiravindranayak/PRODIGY_WD_03/assets/109815646/ea224a12-5093-41c1-87b7-9b9d767ecf11">
+
 ---
 
 
